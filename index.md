@@ -4,7 +4,7 @@
 ![yosemite photo](s (2).JPG)
 <br>
 
-<b> Happy Birthday to my super-mumma who brings us happiness and warmth every day! </span>
+### Happy Birthday to my super-mumma who brings us happiness and warmth every day!
 <br>
 
 ![sf photo](s (4).JPG)
@@ -29,7 +29,7 @@
 
 <br>
 <h3 style="background-color:YELLOW"> Here we observe a Mumma being tortured by Rishu </h3> 
-<img src="g (1).gif" width="300" height="213" /> <img src="g (2).gif" width="120" height="213" />
+<img src="g (1).gif" width="100" height="300" /> <img src="g (2).gif" width="300" height="300" />
 <br>
 
 <h3 style="background-color:BISQUE"> I drew this for you when I left home for Hong Kong in 2016 </h3> 
