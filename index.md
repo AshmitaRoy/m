@@ -27,6 +27,10 @@
 - "Disha ki holo? No awaz? Kemon acho?"
 - "Potor Potor Kotha Bolbi na Toh"
 
+<br>
+<h3 style="background-color:YELLOW"> Here we observe a Mumma being tortured by Rishu </h3> 
+<img src="g (1).gif" width="300" height="213" /> <img src="g (2).gif" width="120" height="213" />
+<br>
 
 <h3 style="background-color:BISQUE"> I drew this for you when I left home for Hong Kong in 2016 </h3> 
 ![drawing](draw.jpg)
