@@ -4,12 +4,12 @@
 ![yosemite photo](s (2).JPG)
 <br>
 
-<span style="color: MEDIUMSEAGREEN;"> <b> Happy Birthday to my super-mumma who brings us happiness and warmth every day </span>
+<b> Happy Birthday to my super-mumma who brings us happiness and warmth every day! </span>
 <br>
 
 ![sf photo](s (4).JPG)
 
-<span style="color: MEDIUMSLATEBLUE;"> <b> I love you Mumma! Happy Happy Birthday and this webpage is to document all the ways in which you light up our lives, and you make it look EASY! From being patient with your potor-potor bokboking, hot-tempered lil monkeys to forgetting our names (even though there's only TWO of us!) - we love you and we appreciate you more than you know.  </b> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <b> I love you Mumma! Happy Happy Birthday and this webpage is to document all the ways in which you light up our lives, and you make it look EASY! From being patient with your potor-potor bokboking, hot-tempered lil monkeys to forgetting our names (even though there's only TWO of us!) - we love and appreciate you more than you know. I miss you. </b> </span>
 <br>
 
 <br>
@@ -29,7 +29,7 @@
 
 
 <h3 style="background-color:BISQUE"> Remember when I left for Hong Kong and I drew this for you guys? </h3> 
-![drawing](sc (2).jpeg)
+![drawing](draw.jpg)
 <br>
 <br>
 
