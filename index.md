@@ -28,7 +28,7 @@
 - "Potor Potor Kotha Bolbi na Toh"
 
 
-<h3 style="background-color:BISQUE"> Remember when I left for Hong Kong and I drew this for you guys? </h3> 
+<h3 style="background-color:BISQUE"> I drew this for you when I left home for Hong Kong in 2016 </h3> 
 ![drawing](draw.jpg)
 <br>
 <br>
@@ -59,8 +59,8 @@
 ![old3](old3.png)
 
 
-### I love you Mumma and I miss you onek onek onek
-## Disha
+> I love you Mumma and I miss you onek onek onek
+
 
 ![old2](old2.png)
 <br>
